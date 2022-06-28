@@ -2,9 +2,11 @@
 
 * [Forward](README.md)
 * [Prelim](Prelim/README.md)
-  * [crystallography](Prelim/crystal.md)
+  * [Crystallography](Prelim/crystal.md)
+  * [MPI](mpi.md)
 * [QuantumEspresso](QE/README.md)
   * [PwScf](QE/scf.md)
   * [PHonon](QE/ph.md)
+  * [Wan90](QE/wannier.md)
   * [EPW](QE/epw.md)
 * [BerkeleyGW](BGW/README.md)
