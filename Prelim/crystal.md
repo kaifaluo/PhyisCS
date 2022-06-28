@@ -7,4 +7,4 @@
 * [Materials Project](https://materialsproject.org/)
 * [AFlow](http://www.aflowlib.org/)
 * [点群特征标](http://gernot-katzers-spice-pages.com/character\_tables/index.html)
-* [Brillouin Zone and High-symmetry k Points](Prelim/brillouin_zone_and_high_symmetry_k_points.pdf)
+* [Brillouin Zone and High-symmetry k Points, Appendix A](https://github.com/kaifaluo/PhyisCS/blob/gitbook/ref/brillouin_zone_and_high_symmetry_k_points.pdf)
