@@ -4,6 +4,8 @@
 * [Prelim](Prelim/README.md)
   * [Crystallography](Prelim/crystal.md)
   * [MPI](mpi.md)
+  * [AbInitio](abinit.md)
+  * [Linux](abinit.md)
 * [QuantumEspresso](QE/README.md)
   * [PwScf](QE/scf.md)
   * [PHonon](QE/ph.md)
