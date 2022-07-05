@@ -1,8 +1,6 @@
 ### What is, Why, and How First-Principle
 
 
-
-
 ### DFT
 
 ### Pseudopotential
