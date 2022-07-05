@@ -7,3 +7,9 @@
 #### Regular Expression
 [Regular Expression](https://en.wikipedia.org/wiki/Regular_expression#Syntax)  
 [正则表达式](https://www.runoob.com/regexp/regexp-tutorial.html)
+
+
+#### Software List
+
+- [Gnuplot](http://www.gnuplot.info/)
+- [make](https://www.gnu.org/software/make/manual/make.html)
