@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Forward](README.md)
+* [Foreword](README.md)
 * [Prelim](Prelim/README.md)
   * [Crystallography](Prelim/crystal.md)
   * [MPI](Prelim/mpi.md)
