@@ -3,8 +3,6 @@
 
 ### What is this?
 
----
-
 ### Worth Noting
 
 - [Classical literature reading](https://wucj.lab.westlake.edu.cn/Wu_ClassicReading.html) by Prof. Congjun Wu
@@ -19,9 +17,13 @@
 - [Regular Expression](https://en.wikipedia.org/wiki/Regular_expression#Syntax) & [正则表达式](https://www.runoob.com/regexp/regexp-tutorial.html)
 - [Gnuplot](http://www.gnuplot.info/) & [make](https://www.gnu.org/software/make/manual/make.html)
 
----
-
 ### Key Paper
 
 - [1976, Monkhorst and Pack (K-Sampling)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.13.5188)
 - [1992, Payne et al. (Iterative Minimization)](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.64.1045)
+- [2010, Feliciano et al. (SternheimerGW)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.81.115105)
+
+### Scitific Packages
+
+- [BerkeleyGW](https://berkeleygw.org/) & [StochasticGW](http://www.stochasticgw.com/) & [NanoGW](http://real-space.org/downloads/) & [SternheimerGW](http://www.sternheimergw.org/)
+- [Yambo](http://www.yambo-code.org/)
