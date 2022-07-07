@@ -1,7 +1,0 @@
-### Parallization
-
-
-### MPI
-
-
-### OpenMP
