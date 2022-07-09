@@ -9,4 +9,3 @@
   * [PHonon](QE/ph.md)
   * [Wannier90](QE/wannier.md)
   * [EPW](QE/epw.md)
-* [BerkeleyGW](BGW/README.md)
