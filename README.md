@@ -31,19 +31,20 @@
 
 - [1976, Monkhorst and Pack (K-Sampling)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.13.5188)
 - [1992, Payne et al. (Iterative Minimization)](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.64.1045)
-- [2010, Feliciano et al. (SternheimerGW)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.81.115105)
 
 ### Scitific Package
 
 - [BerkeleyGW](https://berkeleygw.org/) 
-- [SternheimerGW](http://www.sternheimergw.org/)
+- [SternheimerGW](http://www.sternheimergw.org/) ([2010](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.81.115105), [2019](https://www.sciencedirect.com/science/article/abs/pii/S0010465519302334?via%3Dihub))
+- [Quantum Espresso](https://www.quantum-espresso.org/) ([2017](https://iopscience.iop.org/article/10.1088/1361-648X/aa8f79))
 - [Yambo](http://www.yambo-code.org/)
-- [Wannier90](http://www.wannier.org/)
+- [Wannier90](http://www.wannier.org/) ([2012RMP](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.84.1419))
 - [WannierTools](http://www.wanniertools.com/)
-- [EPW](https://epw-code.org/)
+- [EPW](https://epw-code.org/) ([2007](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.76.165108),[2010v1](https://www.sciencedirect.com/science/article/pii/S0010465510003218?via%3Dihub), [2016v2](https://www.sciencedirect.com/science/article/pii/S0010465516302260?via%3Dihub), [2017RMP](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.89.015003))
 - [ABINIT](https://www.abinit.org/)
+- [PseudoDojo](https://www.sciencedirect.com/science/article/abs/pii/S0010465518300250)
 
-### Interesting Blog & Web
+### Blog & Web
 
 - [卢昌海](https://www.changhai.org/)
 - [Collection of Documentationaries](https://ihavenotv.com/)
