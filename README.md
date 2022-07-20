@@ -21,10 +21,7 @@
 - [Mathematica](https://reference.wolfram.com/language/)
 - [Fortran90](https://www.fortran90.org/)
 - [C++](https://cplusplus.com/)
-- [Linux Basics](https://gnu-linux.readthedocs.io/zh/latest/index.html): [Commands](https://wangchujiang.com/linux-command/c/ls.html)
-- [Shell](https://www.shellscript.sh/index.html)
-- [Vi/VIM](http://vimdoc.sourceforge.net/htmldoc/usr_toc.html): [正则表达式](https://www.runoob.com/regexp/regexp-tutorial.html)
-- [Gnuplot](http://www.gnuplot.info/)
+- [Linux Basics](https://gnu-linux.readthedocs.io/zh/latest/index.html): [Commands](https://wangchujiang.com/linux-command/c/ls.html), [Shell](https://www.shellscript.sh/index.html), [Vi/VIM](http://vimdoc.sourceforge.net/htmldoc/usr_toc.html), [正则表达式](https://www.runoob.com/regexp/regexp-tutorial.html), [Gnuplot](http://www.gnuplot.info/)
 - [make](https://www.gnu.org/software/make/manual/make.html)
 - [TEX](https://www.latex-project.org/help/documentation/) &rarr HTML(CSS+JavaScript) &rarr Wiki &rarr [Markdown](https://www.markdownguide.org/extended-syntax/#emoji) ([history](https://www.inspire-writer.com/zh-cn/from-html-wiki-to-markdown-writing-in-markup))
 
