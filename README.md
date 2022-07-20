@@ -13,27 +13,22 @@
 - [Annual Review of Condensed Matter Physics](https://www.annualreviews.org/journal/conmatphys)
 - [Encyclopedia:Condensed matter](http://www.scholarpedia.org/article/Encyclopedia:Condensed_matter)
 
-### Language & Tool
+### Scitific Computing
+
+#### Tool
 - [MATLAB Primer](https://mathweb.ucsd.edu/~bdriver/21d-s99/matlab-primer.html)
-- [Think Python 2e](https://greenteapress.com/wp/think-python-2e/); [Numpy](https://github.com/rougier/numpy-100) & [Pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
+- [Think Python 2e](https://greenteapress.com/wp/think-python-2e/): [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/docs/user_guide/10min.html), [SciPy](https://numpy.org/doc/stable/user/index.html#user), [Matplotlib](https://matplotlib.org/)
 - [Mathematica](https://reference.wolfram.com/language/)
 - [Fortran90](https://www.fortran90.org/)
 - [C++](https://cplusplus.com/)
-- [Linux Basics](https://gnu-linux.readthedocs.io/zh/latest/index.html) & [Commands](https://wangchujiang.com/linux-command/c/ls.html)
+- [Linux Basics](https://gnu-linux.readthedocs.io/zh/latest/index.html): [Commands](https://wangchujiang.com/linux-command/c/ls.html)
 - [Shell](https://www.shellscript.sh/index.html)
-- [Vi/VIM](http://vimdoc.sourceforge.net/htmldoc/usr_toc.html) & [Sublime](https://www.sublimetext.com/docs/)
-- [Regular Expression](https://en.wikipedia.org/wiki/Regular_expression#Syntax) & [正则表达式](https://www.runoob.com/regexp/regexp-tutorial.html)
+- [Vi/VIM](http://vimdoc.sourceforge.net/htmldoc/usr_toc.html): [正则表达式](https://www.runoob.com/regexp/regexp-tutorial.html)
 - [Gnuplot](http://www.gnuplot.info/)
 - [make](https://www.gnu.org/software/make/manual/make.html)
 - [TEX](https://www.latex-project.org/help/documentation/) &rarr HTML(CSS+JavaScript) &rarr Wiki &rarr [Markdown](https://www.markdownguide.org/extended-syntax/#emoji) ([history](https://www.inspire-writer.com/zh-cn/from-html-wiki-to-markdown-writing-in-markup))
 
-### Key Paper
-
-- [1976, Monkhorst and Pack (K-Sampling)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.13.5188)
-- [1992, Payne et al. (Iterative Minimization)](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.64.1045)
-
-### Scitific Package
-
+#### Package
 - [BerkeleyGW](https://berkeleygw.org/) 
 - [SternheimerGW](http://www.sternheimergw.org/) ([2010](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.81.115105), [2019](https://www.sciencedirect.com/science/article/abs/pii/S0010465519302334?via%3Dihub))
 - [Quantum Espresso](https://www.quantum-espresso.org/) ([2017](https://iopscience.iop.org/article/10.1088/1361-648X/aa8f79))
